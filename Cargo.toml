@@ -1,0 +1,8 @@
+[package]
+authors = ["Rick Richardson <rick@quiver.zone>"]
+name = "topiclab"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.16"
+regex = "0.2.2"
